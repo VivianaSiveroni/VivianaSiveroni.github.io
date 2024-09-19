@@ -2,4 +2,4 @@
 
 # Education
 PhD candidate, Archaeology, UCL
-# Expirience
+# Experience
