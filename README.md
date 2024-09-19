@@ -1,5 +1,5 @@
 # Skills
 
 # Education
-PhD candidate, Archaeology, UCL
+- PhD candidate, Archaeology, UCL
 # Experience
