@@ -43,6 +43,11 @@ The central data frame displays an ortho-mosaic created in PCI Geomatica years a
 ![image alt](images/CompoundC03_ExcUnits_mod.jpg?raw=true)
 
 ### TIN creation
-A TIN was created in ArcGIS using the centre  of postholes as vertices as a way to represent possible roof structures across the excavated area and the likely length of beams in the roof. Polygons representing postholes were created by georeferencing paper drawings (using sewing pins as ground control points!) that were later digitised.
+A TIN was created in ArcGIS using the centre  of postholes as vertices as a way to represent possible roof structures across the excavated area and the likely length of beams that supported the roof. Polygons representing postholes were created by georeferencing paper drawings (using sewing pins as ground control points!) that were later digitised.
 
 ![image alt](images/Ch5_Dist_Middle_Roof_PostholeSize_mod.jpg?raw=true).
+
+### Google Maps as background
+This simple illustration uses Google Imagery to locate archaeological sites and their main surface features. Inset uses grids in the border to locate the site using UTM coordinates.
+
+![image alt](images/Ch3_Cahuachi_mod.jpg?raw=true).
