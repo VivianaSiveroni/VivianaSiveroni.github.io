@@ -7,7 +7,7 @@ Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 - [Black and White Maps](#black-and-white-maps)
 - [DEMs](#dems)
 - [Landsat 7 images](#landsat-7-images)
-- [Feature digitisation and Classification](#feature-digitisation-and-classification)
+- [Feature Digitisation](#feature-digitisation-and-layer-symbology)
 - [Llama GIS](#llama-gis)
 - [DEM display and HILLSHADE](#dem-display-and-hillshade)
 - [Ortho-mosaics and digitised features](#ortho-mosaics-and-digitised-features)
@@ -27,7 +27,7 @@ This map was produced for a publication that demanded complex data in b/w format
 
 
 
-### Integrating DEMs
+### DEMs
 A simple map of the region of Nasca, Peru incorporating a DEM downloaded from INGEMMET (Peru). Inset uses data from the same source but represents political administrative units.
 
 ![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
