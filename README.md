@@ -38,11 +38,11 @@ A topographic map of Huayuri archaeological site (Peru). The elevation model was
 ![image alt](images/HUAY_ARCH_SURFACE_for_neighb11_mod.jpg?raw=true)
  
 ### Ortho-mosaics and digitised features
-The central data frame displays an ortho-mosaic created in PCI Geomatica using 5MP images taken from an ultralight plane during a low-height flight. Ground points were used to georeferenced the final image. The other data frames show the location of the main frame in the ravine where the site is found (left) and the location of excavation units (right)
+The central data frame displays an ortho-mosaic created in PCI Geomatica years ago using 5MP images taken from an ultralight plane during a low-height flight. Ground points were used to georeferenced the final image. If you zoom in you will be able to see the blue crosses that mark ground control points. The other data frames in the plate show the location of the main frame in the ravine where the site is located (left) and the location of excavation units (right)
 
 ![image alt](images/CompoundC03_ExcUnits_mod.jpg?raw=true)
 
 ### TIN creation
-A  TIN was created in ArcGIS using the centre  of postholes as vertices to determine the possible length of beams in the roof. Polygons representing postholes were created by georeferencing paper drawings and georeferencing using ground points.
+A TIN was created in ArcGIS using the centre  of postholes as vertices as a way to represent possible roof structures across the excavated area and the likely length of beams in the roof. Polygons representing postholes were created by georeferencing paper drawings and georeferencing using ground points.
 
-[!image alt](images/Ch5_Dist_Middle_Roof_PostholeSize_mod.jpg?raw=true).
+![image alt](images/Ch5_Dist_Middle_Roof_PostholeSize_mod.jpg?raw=true).
