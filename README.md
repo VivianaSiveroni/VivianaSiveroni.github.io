@@ -2,7 +2,7 @@
 
 Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 
-##Contents
+## Contents
 
 [Cartography and Spatial Analysis in ArcGIS](#cartography-and-spatial-analysis-in-arcGIS)
 
