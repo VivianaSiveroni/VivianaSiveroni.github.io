@@ -63,7 +63,7 @@ A TIN was created in ArcGIS using the centre  of postholes as vertices as a way 
 
 ![image alt](images/Ch5_Dist_Middle_Roof_PostholeSize_mod.jpg?raw=true).
 
-### Google Maps as background
+### Google Earth/ Google Maps as background
 This simple illustration uses Google Earth Imagery to locate archaeological sites and their main surface features. Inset uses grids in the border to locate the site using UTM coordinates.
 
 ![image alt](images/Ch3_Cahuachi_mod.jpg?raw=true).
