@@ -5,6 +5,7 @@ Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 [Cartography and Spatial Analysis in ArcGIS](#Cartography and Spatial Analysis in ArcGIS)
 
 &nbsp;[B/W Maps](#B/W Maps)
+[B/W Maps](https://github.com/VivianaSiveroni/VivianaSiveroni.github.io/blob/main/README.md#bw-maps)
 
 [Integrating DEMs](#Integrating DEMs)
 
