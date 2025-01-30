@@ -12,12 +12,13 @@ This map was produced for a publication that demanded complex data in b/w format
 A simple map of the region of Nasca, Peru incorporating a DEM downloaded from INGEMMET (Peru). Inset uses data from the same source but represents political administrative units.
 
 ![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
-
 <br> </br>
+
 ### Landsat 7 images
 This map is based on Landsat 7 imagery with bands reassigning bands (band combination 4, 3, 2) to show the vegetation's extent (in red) in the Nasca area.
 ![image alt](images/Landsat8_2017_April_Nasca_location_mod.jpg?raw=true)
 <br> </br>
+
 ![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
 <br> </br>
 ![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
