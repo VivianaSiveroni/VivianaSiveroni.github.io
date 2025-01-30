@@ -10,23 +10,25 @@ This map was produced for a publication that demanded complex data in b/w format
 
 ### Integrating DEMs
 A simple map of the region of Nasca, Peru incorporating a DEM downloaded from INGEMMET (Peru). Inset uses data from the same source but represents political administrative units.
-
+<br> </br>
 ![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
 <br> </br>
 
 ### Landsat 7 images
 This map is based on Landsat 7 imagery with bands reassigning bands (band combination 4, 3, 2) to show the vegetation's extent (in red) in the Nasca area.
+<br> </br>
 ![image alt](images/Landsat8_2017_April_Nasca_location_mod.jpg?raw=true)
 <br> </br>
 
 ### Feature digitisation and Classification
 This map shows features from an excavation in Peru. Most features were directly mapped in the field using a GPS/Total Station, the data was stored in a data collector and then transfer to Autocad. Others were digitised from ortho-mosaics produced in the field. Later, features were imported into ArcGIS. In addition, features were classified by field values (i.e., function).
-
+<br> </br>
 ![image alt](images/Ch4_Cluster4_Middle_Map12_mod.jpg?raw=true)
 <br> </br>
 
 ### Llama (Camelid sp.) GIS
-This illustration shows the ubiquity of llama bones in the excavations of Huayuri. The llama skeleton is a Llama GIS where each skeletal specimen (i.e., bone) appears black if the record is NOT NULL.
+This illustration shows the ubiquity of llama bones in the excavations of Huayuri. The llama skeleton is a Llama GIS where each skeletal specimen (i.e., bone) appears black if the record is NOT NULL. In addition, this illustration is an example of the use of various data frames simultaneously.
+<br> </br>
 ![image alt](images/LlamaGis_by_HH_mod.jpg?raw=true)
 <br> </br>
 
