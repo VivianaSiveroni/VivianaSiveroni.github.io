@@ -33,7 +33,7 @@ This illustration shows the ubiquity of llama bones in the excavations of Huayur
  
 
 ### DEM display and HILLSHADE
-A topographic map from Huayuri archaeological site (Peru). The elevation model was built from points taken directly in the field with a Total Station. “Lines” illustrating walls were created by digitising an Ortho-mosaic (architecture) into ArcGIS. The display of the topography is achieved using two superimposed layers. The top layer is the original DEM with transparency ca. 40%, and the bottom one is a DEM processed using the HILLSHADE tool. 
+A topographic map of Huayuri archaeological site (Peru). The elevation model was built from points taken directly in the field with a Total Station. “Lines” illustrating walls were created by digitising an Ortho-mosaic (architecture) into ArcGIS. The display of the topography is achieved using two superimposed layers. The top layer is the original DEM with transparency ca. 40%, and the bottom one is a DEM processed using the HILLSHADE tool. 
  
 ### Ortho-mosaics and digitised features
 The central data frame displays an ortho-mosaic created in PCI Geomatica using 5MP images taken from an ultralight plane during a low-height flight. Ground points were used to georeferenced the final image. The other data frames show the location of the main frame in the ravine where the site is found (left) and the location of excavation units (right)
