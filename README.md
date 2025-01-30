@@ -55,7 +55,7 @@ A topographic map of Huayuri archaeological site (Peru). The elevation model was
 ![image alt](images/HUAY_ARCH_SURFACE_for_neighb11_mod.jpg?raw=true)
  
 ### Ortho-mosaics and Digitised Features
-The central data frame displays an ortho-mosaic created in PCI Geomatica years ago using 5MP images taken from an ultralight plane during a low-height flight. Ground points were used to georeferenced the final image. If you zoom in you will be able to see the blue crosses that mark ground control points. The other data frames in the plate show the location of the main frame in the ravine where the site is located (left) and the location of excavation units (right)
+The central data frame displays an ortho-mosaic created in PCI Geomatica years ago using 5MP images taken from an ultralight plane during a low-height flight. Ground points were used to georeferenced the final image. If you zoom in you will be able to see the blue crosses that mark ground control points. The other data frames in the plate show the location of the main frame in the ravine where the site is located (left) and the location of the excavation units (right).
 
 ![image alt](images/CompoundC03_ExcUnits_mod.jpg?raw=true)
 
@@ -74,7 +74,12 @@ Calculation of time of travel from Huayuri (archaeological site) to different fe
 
 ![images alt](images/HuayuriCostDistance_mod.jpg?raw=true)
 
-###Image Analysis
+### Image Analysis
 Calculation of Normalised Difference Vegetation Index to display strong healthy vegetation (High = 1). This map was achieved with the Band Arithmetic function within the Image Analysis window. 
 
 ![image alt](images/LandCover_mod.jpg?raw=true)
+
+### Classification by Area
+Architectural Units within an archaeological site are classified by area. Other archaeological features are displayed to understand the function of structures based on artefact association.
+
+![image alt](images/PINCH_ARCH_SURF_neighb5_mod.jpg?raw=true)
