@@ -8,7 +8,7 @@ Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DEMs](#dems)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Landsat 7 images](#landsat-7-images)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Feature digitisation and Classification](#feature-digitisation-and-classification)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Llama (*Llama glama*) GIS](#Llama (*Llama glama*) GIS)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Llama GIS](#llama-gis)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DEM display and HILLSHADE](#dem-display-and-hillshade)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ortho-mosaics and digitised features](#ortho-mosaics-and-digitised-features)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TIN creation](#tin-creation)
@@ -48,8 +48,8 @@ This map shows features from an excavation in Peru. Most features were directly 
 
 
 
-### Llama (*Llama glama*) GIS
-This illustration shows the ubiquity of llama bones in the excavations of Huayuri. The llama skeleton is a Llama GIS where each skeletal specimen (i.e., bone) appears black if the record is NOT NULL. In addition, this illustration is an example of the deployment of five data frames simultaneously.
+### Llama GIS
+This illustration shows the ubiquity of llama (*Llama glama*) bones in the excavations of Huayuri. Each llama skeleton is a Llama GIS where each skeletal specimen (i.e., bone) appears black if the record is NOT NULL. In addition, this illustration is an example of the deployment of five data frames simultaneously.
  
 ![image alt](images/LlamaGis_by_HH_mod.jpg?raw=true)
  
@@ -119,6 +119,6 @@ An old aerial photograph purchased from *Servicio Aereofotografico Nacional* or 
 
 
 ### Classification by count and size
-An illustration displaying three data frames containing the spatial distribution of different categories of features. The first frame displays different hatches depending on counts while the two remaining data frames display features by size and volume.
+An illustration displaying three data frames containing the spatial distribution of different categories of features in the excavation area of a site. The first frame (left) displays different hatches depending on times a flour was replastered while the two remaining data frames classify  features by size and volume.
 
 ![image alt](images/Floors_Hearths_Storage_all_mod.jpg?raw=true)
