@@ -11,7 +11,7 @@ This map was produced for a publication that demanded complex data in b/w format
 
 ![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
 ### Integrating DEMs
-A simple map of the region of Nasca, Peru incorporating a DEM downloaded from INGEMMET (Peru) . Inset uses data from the same surface but representing political administrative units.
+A simple map of the region of Nasca, Peru incorporating a DEM downloaded from INGEMMET (Peru) . Inset uses data from the same source but represents political administrative units.
 <br> </br>
 ![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
 <br> </br>
