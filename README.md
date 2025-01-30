@@ -78,3 +78,6 @@ This simple illustration uses Google Earth Imagery to locate archaeological site
 ![image alt](images/Ch3_Cahuachi_mod.jpg?raw=true).
 
 ### Time of travel
+Calculation of time of travel from Huayuri (archaeological site) to different features in the landscape. This map was achieved by running Tobler’s hiking function in the Spatial Analyst extension (Path Distance Tool).
+
+![images alt](images/HuayuriCostDistance_mod.jpg?raw=true)
