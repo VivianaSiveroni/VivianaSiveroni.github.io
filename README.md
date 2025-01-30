@@ -4,7 +4,7 @@ Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 
 ## Contents
 
-[Cartography and Spatial Analysis in ArcGIS](#cartography-and-spatial-analysis-in-arcGIS)
+[Cartography and Spatial Analysis in ArcGIS](#cartography-and-spatial-analysis-in-arcgis)
 
 - [Black and White Maps](#black-and-white-maps)
 - [DEMs](#dems)
