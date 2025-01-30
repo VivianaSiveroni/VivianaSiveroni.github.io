@@ -16,7 +16,7 @@ A simple map of the region of Nasca, Peru incorporating a DEM downloaded from IN
 
 
 ### Landsat 7 images
-This map is based on Landsat 7 imagery with bands reassigning bands (band combination 4, 3, 2) to show the vegetation's extent (in red) in the Nasca area.
+This map is based on Landsat 7 imagery with reassigned bands (band combination 4, 3, 2) to show the vegetation's extent (in red) in the Nasca area.
 
 ![image alt](images/Landsat8_2017_April_Nasca_location_mod.jpg?raw=true)
 
@@ -33,10 +33,12 @@ This illustration shows the ubiquity of llama bones in the excavations of Huayur
  
 
 ### DEM display and HILLSHADE
-A topographic map from an archaeological site. The elevation model was built from points taken directly in the field with a Total Station. “Lines” illustrating walls were created by digitising an Ortho-mosaic (architecture) into ArcGIS. The display of the topography is achieved using two superimposed layers. The top layer is the original DEM with transparency ca. 40%, and the bottom one is a DEM processed using the HILLSHADE tool. 
+A topographic map from Huayuri archaeological site (Peru). The elevation model was built from points taken directly in the field with a Total Station. “Lines” illustrating walls were created by digitising an Ortho-mosaic (architecture) into ArcGIS. The display of the topography is achieved using two superimposed layers. The top layer is the original DEM with transparency ca. 40%, and the bottom one is a DEM processed using the HILLSHADE tool. 
  
+### Ortho-mosaics and digitised features
+The central data frame displays an ortho-mosaic created in PCI Geomatica using 5MP images taken from an ultralight plane during a low-height flight. Ground points were used to georeferenced the final image. The other data frames show the location of the main frame in the ravine where the site is found (left) and the location of excavation units (right)
 
-![image alt](images/HUAY_ARCH_SURFACE_for_neighb11_mod.jpg?raw=true)
+![image alt](images/CompoundC03_ExcUnits_mod.jpg?raw=true)
 
 ![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
 
