@@ -17,9 +17,9 @@ Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 - [Google Earth and Google Maps as Background](#google-earth-and-google-maps-as-background)
 - [Spatial Analysis](#spatial-analysis)
 - [Image Analysis](#image-analysis)
-- [Classification by Area](classification-by-area)
+- [Classification by Area](#classification-by-area)
 - [Tables in Layouts](#tables-in-layouts)
-- [Aerial Photographs](aerial-photographs)
+- [Aerial Photographs](#aerial-photographs)
 - [Feature Classification by Count and Size](#feature-classification-by-count-and-size)
 
 
