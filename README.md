@@ -2,6 +2,8 @@
 
 Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 
+##Contents
+
 [Cartography and Spatial Analysis in ArcGIS](#cartography-and-spatial-analysis-in-arcGIS)
 
 - [Black and White Maps](#black-and-white-maps)
@@ -11,8 +13,14 @@ Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 - [Llama GIS](#llama-gis)
 - [DEM display and HILLSHADE](#dem-display-and-hillshade)
 - [Ortho-mosaics and digitised features](#ortho-mosaics-and-digitised-features)
-- TIN creation](#tin-creation)
-- Google Earth and Google Maps as background](#google-earth-and-google-maps-as-background)
+- [TIN creation](#tin-creation)
+- [Google Earth and Google Maps as Background](#google-earth-and-google-maps-as-background)
+- [Spatial Analysis]
+- [Image Analysis]
+- [Classification by Area]
+- [Tables in Layouts]
+- [Aerial Photographs]
+- [Feature Classification by Count and Size]
 
 
 
@@ -118,7 +126,7 @@ An old aerial photograph purchased from *Servicio Aereofotografico Nacional* or 
 
 
 
-### Classification by count and size
-An illustration displaying three data frames containing the spatial distribution of different categories of features in the excavation area of a site. The first frame (left) displays different hatches depending on times a flour was replastered while the two remaining data frames classify  features by size and volume.
+### Feature Classification by Count and Size
+An illustration displaying three data frames containing the spatial distribution of different categories of features in the excavation area of a site. The first frame (left) displays different hatches depending on the times a floor was replastered while the two remaining data frames classify features by size and volume.
 
 ![image alt](images/Floors_Hearths_Storage_all_mod.jpg?raw=true)
