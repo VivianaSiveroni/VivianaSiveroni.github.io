@@ -33,8 +33,7 @@ This illustration shows the ubiquity of llama bones in the excavations of Huayur
 ![image alt](images/LlamaGis_by_HH_mod.jpg?raw=true)
 <br> </br>
 
-###
-DEM display and HILLSHADE
+### DEM display and HILLSHADE
 A topographic map from an archaeological site. The elevation model was built from points taken directly in the field with a Total Station. “Lines” illustrating walls were created by digitising an Ortho-mosaic (architecture) into ArcGIS. The display of the topography is achieved using two superimposed layers. The top layer is the original DEM with transparency ca 40%, and the bottom one is a DEM processed using the HILLSHADE tool. 
 <br> </br>
 
