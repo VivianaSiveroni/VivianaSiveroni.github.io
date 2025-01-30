@@ -26,7 +26,7 @@ This map shows features from an excavation in Peru. Most features were directly 
 
 ![image alt](images/Ch4_Cluster4_Middle_Map12_mod.jpg?raw=true)
 
-### Llama (Camelid sp.) GIS
+### Llama (*Llama glama*) GIS
 This illustration shows the ubiquity of llama bones in the excavations of Huayuri. The llama skeleton is a Llama GIS where each skeletal specimen (i.e., bone) appears black if the record is NOT NULL. In addition, this illustration is an example of the deployment of five data frames simultaneously.
  
 ![image alt](images/LlamaGis_by_HH_mod.jpg?raw=true)
@@ -37,8 +37,11 @@ A topographic map from an archaeological site. The elevation model was built fro
  
 
 ![image alt](images/HUAY_ARCH_SURFACE_for_neighb11_mod.jpg?raw=true)
-<br> </br>
-![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)<br> </br>
-![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)<br> </br>
-![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)<br> </br>
+
+![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
+
+![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
+
+![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
+
 ![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
