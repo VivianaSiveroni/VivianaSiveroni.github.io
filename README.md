@@ -20,7 +20,8 @@ This map is based on Landsat 7 imagery with bands reassigning bands (band combin
 <br> </br>
 
 ### Feature digitisation and Classification
-This map shows features from an excavation in Peru. Most features were directly mapped in the field using a GPS/Total Station and the data stored in a data collector. Others were digitised from ortho-mosaics produced in the field. Archaeological features of different functions are in a spatial database that I designed and managed. In addition, features in layers were classified by field values (i.e., function).
+This map shows features from an excavation in Peru. Most features were directly mapped in the field using a GPS/Total Station, the data was stored in a data collector and then transfer to Autocad. Others were digitised from ortho-mosaics produced in the field. Later, features were imported into ArcGIS. In addition, features were classified by field values (i.e., function).
+
 ![image alt](images/images/Ch4_Cluster4_Middle_Map12_mod.jpg?raw=true)
 <br> </br>
 
