@@ -15,12 +15,12 @@ Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 - [Ortho-mosaics and digitised features](#ortho-mosaics-and-digitised-features)
 - [TIN creation](#tin-creation)
 - [Google Earth and Google Maps as Background](#google-earth-and-google-maps-as-background)
-- [Spatial Analysis]
-- [Image Analysis]
-- [Classification by Area]
-- [Tables in Layouts]
-- [Aerial Photographs]
-- [Feature Classification by Count and Size]
+- [Spatial Analysis](#spatial-analysis)
+- [Image Analysis](#image-analysis)
+- [Classification by Area](classification-by-area)
+- [Tables in Layouts](#tables-in-layouts)
+- [Aerial Photographs](aerial-photographs)
+- [Feature Classification by Count and Size](#feature-classification-by-count-and-size)
 
 
 
