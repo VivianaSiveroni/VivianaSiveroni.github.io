@@ -5,14 +5,14 @@ Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 [Cartography and Spatial Analysis in ArcGIS](#Cartography and Spatial Analysis in ArcGIS)
 
 - [Black and White Maps](#black-and-white-maps)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DEMs](#dems)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Landsat 7 images](#landsat-7-images)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Feature digitisation and Classification](#feature-digitisation-and-classification)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Llama GIS](#llama-gis)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DEM display and HILLSHADE](#dem-display-and-hillshade)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ortho-mosaics and digitised features](#ortho-mosaics-and-digitised-features)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TIN creation](#tin-creation)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Google Earth and Google Maps as background](#google-earth-and-google-maps-as-background)
+- [DEMs](#dems)
+- [Landsat 7 images](#landsat-7-images)
+- [Feature digitisation and Classification](#feature-digitisation-and-classification)
+- [Llama GIS](#llama-gis)
+- [DEM display and HILLSHADE](#dem-display-and-hillshade)
+- [Ortho-mosaics and digitised features](#ortho-mosaics-and-digitised-features)
+- TIN creation](#tin-creation)
+- Google Earth and Google Maps as background](#google-earth-and-google-maps-as-background)
 
 
 
