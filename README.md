@@ -33,7 +33,7 @@ This map was produced for a publication that demanded complex data in b/w format
 
 ![image alt](images/Caravans_Fig1_w_arrow_mod2.jpg?raw=true)
 
-
+[Top][#contents]
 
 ### DEMs
 A simple map of the region of Nasca, Peru incorporating a DEM downloaded from INGEMMET (Peru). Inset uses data from the same source but represents political administrative units.
