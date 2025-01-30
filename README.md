@@ -1,13 +1,14 @@
 # My Portfolio
 
-Below,there are examples of my work in ArcGIS, Archaeology, Databases and more.
+Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 
 ## Cartography and Spatial Analysis in ArcGIS
 ### B/W Maps 
+<br>
 This map was produced for a publication that demanded complex data in b/w format. Three data frames are used to locate the study area (bottom), and display the main features at the local (centre) and regional (top) level.
-<br> </br>
-![image alt](images/Caravans_Fig1_w_arrow_mod2.jpg?raw=true)
-<br> </br>
+</br>
+<br>![image alt](images/Caravans_Fig1_w_arrow_mod2.jpg?raw=true)
+</br>
 
 ### Integrating DEMs
 A simple map of the region of Nasca, Peru incorporating a DEM downloaded from INGEMMET (Peru). Inset uses data from the same source but represents political administrative units.
