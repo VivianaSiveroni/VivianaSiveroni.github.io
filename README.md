@@ -42,10 +42,3 @@ The central data frame displays an ortho-mosaic created in PCI Geomatica using 5
 
 ![image alt](images/CompoundC03_ExcUnits_mod.jpg?raw=true)
 
-![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
-
-![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
-
-![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
-
-![image alt](images/Ch2_TheDrainage_characteristics_mod.jpg?raw=true)
