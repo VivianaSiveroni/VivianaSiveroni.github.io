@@ -42,3 +42,7 @@ The central data frame displays an ortho-mosaic created in PCI Geomatica using 5
 
 ![image alt](images/CompoundC03_ExcUnits_mod.jpg?raw=true)
 
+### TIN creation
+A  TIN was created in ArcGIS using the centre  of postholes as vertices to determine the possible length of beams in the roof. Polygons representing postholes were created by georeferencing paper drawings and georeferencing using ground points.
+
+[Roof structure](images/Ch5_Dist_Middle_Roof_PostholeSize_mod.jpg?raw=true).
