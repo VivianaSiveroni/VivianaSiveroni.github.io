@@ -107,4 +107,4 @@ An old aerial photograph purchased from *Servicio Aereofotografico Nacional* or 
 ### Classification by count and size
 An illustration displaying three data frames containing the spatial distribution of different categories of features. The first frame displays different hatches depending on counts while the two remaining data frames display features by size and volume.
 
-![image alt](iimages/Floors_Hearths_Storage_all_mod.jpg?raw=true)
+![image alt](images/Floors_Hearths_Storage_all_mod.jpg?raw=true)
