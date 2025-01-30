@@ -4,15 +4,15 @@ Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 
 [Cartography and Spatial Analysis in ArcGIS](#Cartography and Spatial Analysis in ArcGIS)
 
--[Black and White Maps](#black-and-white-maps)
--[DEMs](#dems)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Black and White Maps](#black-and-white-maps)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DEMs](#dems)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Landsat 7 images](#landsat-7-images)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Feature digitisation and Classification](#feature-digitisation-and-classification)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Llama (*Llama glama*) GIS](#Llama (*Llama glama*) GIS)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DEM display and HILLSHADE](#DEM display and HILLSHADE)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ortho-mosaics and digitised features](#Ortho-mosaics and digitised features)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TIN creation](#TIN creation)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Google Earth/ Google Maps as background](#Google Earth/ Google Maps as background)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DEM display and HILLSHADE](#dem-display-and-hillshade)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ortho-mosaics and digitised features](#ortho-mosaics-and-digitised-features)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TIN creation](#tin-creation)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Google Earth and Google Maps as background](#google-earth-and-google-maps-as-background)
 
 
 
@@ -64,7 +64,7 @@ A TIN was created in ArcGIS using the centre  of postholes as vertices as a way 
 
 ![image alt](images/Ch5_Dist_Middle_Roof_PostholeSize_mod.jpg?raw=true).
 
-### Google Earth/ Google Maps as Background
+### Google Earth and Google Maps as Background
 This simple illustration uses Google Earth Imagery to locate archaeological sites and their main surface features. Inset uses grids in the border to locate the site using UTM coordinates.
 
 ![image alt](images/Ch3_Cahuachi_mod.jpg?raw=true).
@@ -74,7 +74,7 @@ Calculation of time of travel from Huayuri (archaeological site) to different fe
 
 ![images alt](images/HuayuriCostDistance_mod.jpg?raw=true)
 
-###Image Analysis{#image-analysis}
+###Image Analysis
 Calculation of Normalised Difference Vegetation Index to display strong healthy vegetation (High = 1). This map was achieved with the Band Arithmetic function within the Image Analysis window. 
 
 ![image alt](images/LandCover_mod.jpg?raw=true)
