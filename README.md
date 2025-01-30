@@ -4,23 +4,23 @@ Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 
 [Cartography and Spatial Analysis in ArcGIS](#Cartography and Spatial Analysis in ArcGIS)
 
-[B/W Maps]
+[B/W Maps](#B/W Maps)
 
-[Integrating DEMs]
+[Integrating DEMs](#Integrating DEMs)
 
-[Landsat 7 images]
+[Landsat 7 images](#Landsat 7 images)
 
-[Feature digitisation and Classification]
+[Feature digitisation and Classification](#Feature digitisation and Classification)
 
-[Llama (*Llama glama*) GIS]
+[Llama (*Llama glama*) GIS](#Llama (*Llama glama*) GIS)
 
-[DEM display and HILLSHADE]
+[DEM display and HILLSHADE](#DEM display and HILLSHADE)
 
-[Ortho-mosaics and digitised features]
+[Ortho-mosaics and digitised features](#Ortho-mosaics and digitised features)
 
-[TIN creation]
+[TIN creation](#TIN creation)
 
-[Google Earth/ Google Maps as background]
+[Google Earth/ Google Maps as background](#Google Earth/ Google Maps as background)
 
 
 
