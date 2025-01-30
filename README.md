@@ -50,7 +50,7 @@ This map is based on Landsat 7 imagery with reassigned bands (band combination 4
 
 
 ### Feature Digitisation and Layer Symbology
-This map shows features from an excavation in Peru. Most features were directly mapped in the field using a GPS/Total Station, the data was stored in a data collector and then transferred to Autocad. Others were digitised from ortho-mosaics produced in the field. Later, features were imported into ArcGIS. In addition, some small features were produced by digitising paper drawings and images that were georeferenced using ground points. 
+This map shows features from an excavation in Peru. Most features were directly mapped in the field using a GPS/Total Station, the data was stored in a data collector and then transferred to a CAD programme. Others were digitised from ortho-mosaics produced in the field. Later, features were imported into ArcGIS. In addition, some small features were produced by digitising paper drawings and images that were georeferenced using ground points. 
 
 ![image alt](images/Ch4_Cluster4_Middle_Map12_mod.jpg?raw=true)
 
