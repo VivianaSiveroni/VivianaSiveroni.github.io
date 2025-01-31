@@ -2,7 +2,7 @@
 
 Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 
-## Contents[]()
+## Contents
 
 [Cartography and Spatial Analysis in ArcGIS](#cartography-and-spatial-analysis-in-arcgis)
 
@@ -23,7 +23,7 @@ Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 - [Feature Classification by Count and Size](#feature-classification-by-count-and-size)
 
 
-
+[Contents](#contents)
 
 
 
