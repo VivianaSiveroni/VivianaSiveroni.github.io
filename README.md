@@ -23,7 +23,7 @@ Below are examples of my work in ArcGIS, Archaeology, Databases and more.
 - [Feature Classification by Count and Size](#feature-classification-by-count-and-size)
 
 
-<center> [Top](#contents) </center>
+[Top](#contents) </center>
 
 
 
